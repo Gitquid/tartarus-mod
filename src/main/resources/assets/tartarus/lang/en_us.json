@@ -1,0 +1,13 @@
+{
+  "itemGroup.tartarus": "Example Mod Tab",
+  "block.tartarus.example_block": "Example Block",
+  "item.tartarus.example_item": "Example Item",
+
+  "tartarus.configuration.title": "Tartarus Configs",
+  "tartarus.configuration.section.tartarus.common.toml": "Tartarus Configs",
+  "tartarus.configuration.section.tartarus.common.toml.title": "Tartarus Configs",
+  "tartarus.configuration.items": "Item List",
+  "tartarus.configuration.logDirtBlock": "Log Dirt Block",
+  "tartarus.configuration.magicNumberIntroduction": "Magic Number Text",
+  "tartarus.configuration.magicNumber": "Magic Number"
+}
