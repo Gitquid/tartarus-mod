@@ -9,5 +9,11 @@
   "tartarus.configuration.items": "Item List",
   "tartarus.configuration.logDirtBlock": "Log Dirt Block",
   "tartarus.configuration.magicNumberIntroduction": "Magic Number Text",
-  "tartarus.configuration.magicNumber": "Magic Number"
+  "tartarus.configuration.magicNumber": "Magic Number",
+
+  "item.tartarus.charons_obol": "Charon's Obol",
+  "item.tartarus.stygian_seeker": "Stygian Seeker",
+  "block.tartarus.stygian_bronze": "Stygian Bronze",
+  "block.tartarus.abyssal_pit": "Abyssal Pit",
+  "creativetab.tartarus_tab": "Tartarus"
 }
